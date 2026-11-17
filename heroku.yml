@@ -1,0 +1,4 @@
+# Tells Heroku to build and run the Dockerfile (see docs/DEPLOY.md).
+build:
+  docker:
+    web: Dockerfile
